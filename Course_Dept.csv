@@ -1,0 +1,17 @@
+CID,Cname,Ctype
+1,Software Engineering,Regular
+2,Software Re-engineering,Optional
+3,Hardware Engineering,Optional
+4,Hardware Repairing,Regular
+5,Carpentary,Regular
+6,Welding,Optional
+7,Plumbing,Regular
+8,Yoga,Optional
+9,Cyber Security,Optional
+10,Electrical Maintenance,Regular
+11,Buddhism,Regular
+,,
+Dno,Dname,
+1,Computer,
+2,Science & Humanities,
+3,Mechanical,

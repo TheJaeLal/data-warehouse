@@ -1,2 +1,0 @@
-# data-warehouse
-Data Warehouse
